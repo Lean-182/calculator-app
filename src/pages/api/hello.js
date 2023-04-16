@@ -3,3 +3,5 @@
 export default function handler(req, res) {
   res.status(200).json({ name: 'John Doe' })
 }
+
+// Al cargar la página, establece el tema en el último tema seleccionado

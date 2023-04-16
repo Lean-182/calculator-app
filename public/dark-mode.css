@@ -1,0 +1,13 @@
+.dark-mode {
+    background-color: #222;
+    color: #fff;
+  }
+  
+  .dark-mode .calculator-display {
+    background-color: #444;
+    color: #fff;
+  }
+
+  .bg-custom-black {
+    background-color: #000;
+  }
